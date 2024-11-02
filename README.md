@@ -6,4 +6,4 @@ This repo contains materials I developed for teaching Math, English, and SAT pre
 
 [College Panda 400](https://drive.google.com/file/d/1jmJnK4nPZt6QGYsJDaG-7WLqeCAzo3yj/view?usp=sharing)
 
-[Irregular verbs]([url](https://drive.google.com/file/d/1znW7LpmPSMIBrdpjxItEiIAUgffuVHwG/view?usp=sharing)
+[Irregular verbs](https://drive.google.com/file/d/1znW7LpmPSMIBrdpjxItEiIAUgffuVHwG/view?usp=sharing)
