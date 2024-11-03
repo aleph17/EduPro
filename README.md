@@ -4,11 +4,12 @@ Inside files you can find books - as a part of latger project in mind - written,
 
 ### Anki decks
 These are the decks that can be downloaded and used inside AnkiDroid/Anki open source app. The primary goal of the decks is to enhance the experience of English language acquisition by Uzbek learner - by bringing spaced repetition to a center educational efforts.
-[4000 English words](https://drive.google.com/file/d/1TTGGZ3Ac-fxh5TRhxwdrW8yziXkfG5LG/view?usp=drive_link)*
 
-[College Panda 400](https://drive.google.com/file/d/1jmJnK4nPZt6QGYsJDaG-7WLqeCAzo3yj/view?usp=sharing)
+* [4000 English words](https://drive.google.com/file/d/1TTGGZ3Ac-fxh5TRhxwdrW8yziXkfG5LG/view?usp=drive_link)*
 
-[Irregular verbs](https://drive.google.com/file/d/1znW7LpmPSMIBrdpjxItEiIAUgffuVHwG/view?usp=sharing)
+* [College Panda 400](https://drive.google.com/file/d/1jmJnK4nPZt6QGYsJDaG-7WLqeCAzo3yj/view?usp=sharing)
+
+* [Irregular verbs](https://drive.google.com/file/d/1znW7LpmPSMIBrdpjxItEiIAUgffuVHwG/view?usp=sharing)
 
 
 
