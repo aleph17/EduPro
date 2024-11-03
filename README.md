@@ -1,4 +1,5 @@
 # EduPro
+**EduPro** - **Edu**cation **Pro**jects
 This repo contains materials I developed for teaching Math, English, and SAT prep.
 Inside files you can find books - as a part of larger projects in mind - written, compiled, or repurposed. Feel free to use or share. If you want to continue some of the projects inside or use them in your own educational agendas - you can contact me. If you need any adjacent materials, they can be shared upon a request.
 
